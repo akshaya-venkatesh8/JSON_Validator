@@ -1,2 +1,2 @@
-# Silly_JSON_Validator
+# JSON_Validator
 validates JSON
