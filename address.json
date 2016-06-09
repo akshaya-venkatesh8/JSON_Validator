@@ -1,0 +1,11 @@
+{
+"address":
+   {"name":"Lily Joanna",
+    "streetnumber":"123",
+    "streetname":"Main Street",
+    "secondary address":"BLDG 12",
+    "city":"San Francisco",
+    "statecode":"CA",
+    "zipcode":"94111-1234"
+}
+}
